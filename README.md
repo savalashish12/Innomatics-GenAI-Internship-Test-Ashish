@@ -11,7 +11,7 @@ users.json – User details
 
 restaurants.sql – Restaurant data
 
-analysis.ipynb – Data processing & analysis
+analysis.py – Data processing & analysis
 
 final_food_delivery_dataset.csv – Final merged dataset
 
